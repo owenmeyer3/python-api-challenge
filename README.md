@@ -42,8 +42,8 @@ Find Hotels
 
 * Narrows down the DataFrame to find ideal weather condition. Criteria:
   * A max temperature lower than 80 degrees but higher than 65.
-  * Humidity less than 50%.
-  * Zero cloudiness.
+  * Humidity less than 60%.
+  * Cloudiness less than 30%.
   * Drop any rows that don't contain all three conditions
 
 * finds the first hotel for each city located within 5000 meters of your coordinates.
