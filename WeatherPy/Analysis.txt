@@ -1,0 +1,1 @@
+All visualization analysis is included in cell in jupyter notebook directly adjacent to plots.
