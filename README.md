@@ -20,13 +20,21 @@ Plotting - these figures are plotted for all cities
 Plotting and Regression - These figures are plotted by hempisphere, and include regression line data and correlation data (r-value)
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
+![](Images/capture.png)
 * Southern Hemisphere - Temperature (F) vs. Latitude
+![](Images/capture2.png)
 * Northern Hemisphere - Humidity (%) vs. Latitude
+![](Images/capture3.png)
 * Southern Hemisphere - Humidity (%) vs. Latitude
+![](Images/capture4.png)
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
+![](Images/capture5.png)
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
+![](Images/capture6.png)
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
+![](Images/capture7.png)
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+![](Images/capture8.png)
 
 ### Visualizing Global Data and Select Hotel Data
 
@@ -37,6 +45,8 @@ This section of the projects utilizes:
 Heat Map
 
 * Creates a heat map that displays the humidity for every city from the part I
+
+![](Images/heatmap.png)
 
 Find Hotels
 
@@ -49,3 +59,5 @@ Find Hotels
 * finds the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
+![](Images/hotel_map.png)
